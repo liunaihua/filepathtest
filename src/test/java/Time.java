@@ -39,7 +39,7 @@ public class Time {
                 String key=group.substring(group.lastIndexOf("<transid>")+9,
                         group.lastIndexOf("</transid>"));
                 System.out.println("value:"+value+"---key:"+key);
-                //
+
             }
         }
 }
